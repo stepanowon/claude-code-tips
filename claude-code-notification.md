@@ -1,7 +1,8 @@
 # 훅을 이용한 알림 기능
 
 ## Claude Code 병렬 사용시 알림 기능 추가
-#### Mac
+---
+### Mac
 - claude code 설정 파일(~/.claude/settings.json)에 다음 내용의 설정 추가하여 알림 소리 나도록
 ```
 {
@@ -32,7 +33,7 @@
 }
 ```
 
-#### Windows
+### Windows
 - 윈도우의 경우 소리만 나게 할 것이 아니라 윈도우 알림에 포함시키도록 하고 윈도우 알림음을 설정할 수 있음
 - claude code 설정 파일(~/.claude/settings.json)에 다음 내용의 설정 추가하여 윈도우 알림 기능 추가
 ```
